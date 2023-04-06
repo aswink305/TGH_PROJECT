@@ -1,0 +1,30 @@
+#Quote_grtr_col-height{
+    height: fit-content;
+    background-color: rgb(170, 40, 40);
+    border-radius: 20px;
+}
+#Full_pages_spacer{
+    height: 5rem;
+}
+#Quote_grtr_spacer{
+    height: 2rem;
+}
+#Quote_grtr_font_size{
+    font-size: 2vw;
+    font-family: 'Playfair Display', serif;
+}
+#Quote_grtr_spacer2{
+    height: 1rem;
+}
+#Quote_grtr_Author_alighn{
+   display: flex;
+   justify-content: end;
+}
+#Quote_grtr_bookmark_alighn{
+
+text-align: center;
+}
+#Quote_grtr_btn{
+    background-color: transparent;
+    border: none;
+}

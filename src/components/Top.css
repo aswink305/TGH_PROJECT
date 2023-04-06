@@ -1,0 +1,33 @@
+
+#Top_Headdings{
+    display: flex;
+}
+
+#Top_Headdings_1{
+    display: flex;
+    justify-content: start;
+    font-size: 1.5vw ;
+font-weight: 600;
+}
+#Top_Headdings_2{
+    display: flex;
+    justify-content: end;
+    font-size: 1.5vw ;
+font-weight: 600;
+
+}
+body{
+    background: linear-gradient(to right, rgb(4, 4, 153), rgba(255, 0, 81, 0.584));
+    color: white;
+    
+
+}
+#top_btn{
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+#Quote_grtr_Author_alighns{
+display: flex;
+    justify-content: center;
+}

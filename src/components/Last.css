@@ -1,0 +1,94 @@
+#dropdownMenuButton{
+    background-color: white;
+    color: black;
+}
+#last_alighn{
+    display: flex;
+    justify-content: center;
+}
+#dropdown-basic{
+    height: 2rem;
+    width: 15vw;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+}
+#last_btn{
+    box-shadow: rgba(0, 0, 0, 0.525) 0px 20px 30px;
+    width: 11vw;
+    background-color: rgba(17, 183, 17, 0.809);
+    border-radius: 20px;
+}
+#dropdown-split-basic{
+    background-color: transparent;
+    border: none;
+    color: black;
+    
+}
+@media screen and (max-width: 1055px) {
+ #dropdown-basic{
+font-size: 1.5vw;
+ }
+ #Quote_grtr_font_size{
+    font-size: 3vw;
+}
+#Quote_grtr_font_size2{
+    font-size: 1vw;
+}
+  }
+  @media screen and (max-width: 654px) {
+    #dropdown-basic{
+        width: 150px;
+        font-size: 12px;
+    }
+    #last_btn{
+        width: 100px;
+        height: 1.5rem;
+        font-size: 12px;
+
+    }
+    #Quote_grtr_Author_alighn{
+        display: flex;
+        justify-content: center;
+        
+    }
+    #Quote_grtr_font_size{
+        font-size: 3vw;
+    }
+    #Quote_grtr_font_size2{
+        font-size: 1vw;
+    }
+     }
+     @media screen and (max-width: 578px) {
+        #Quote_grtr_media{
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
+        #Quote_grtr_col-height{
+            width: 50vw;
+            
+        }
+        #Top_Headdings_1{
+            font-size: 20px;
+        }
+        #Top_Headdings_2{
+            font-size: 20px;
+        }
+        #Quote_grtr_Author_alighn{
+            display: flex;
+            justify-content: center;
+        }
+        #Quote_grtr_font_size{
+            font-size: 3vw;
+        }
+        #Quote_grtr_font_size2{
+            font-size: 1vw;
+        }
+         }
+         @media screen and (max-width: 400px) {
+
+            #Quote_grtr_font_size2{
+                font-size: 1vw;
+            }
+         }
